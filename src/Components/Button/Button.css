@@ -1,0 +1,14 @@
+.CotainerButton{
+    position: relative;
+}
+
+.Button{
+    width: 8rem;
+    height: 3rem;
+    background-color:#5d78ff ;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 100%;
+}

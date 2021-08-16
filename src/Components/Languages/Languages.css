@@ -1,0 +1,17 @@
+.ConatainerLanguage img{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.ConatainerLanguage{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 3rem auto;
+    max-width: 35rem;
+    font-size: 1.0rem;
+}
+.Langueage_img{
+  display: flex;
+  align-items: center;
+  gap: 0.5rem
+}

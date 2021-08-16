@@ -1,0 +1,21 @@
+.Input{
+  max-width: 24rem;
+  margin: 1rem auto;
+  position: relative;
+}
+.Input-Text{
+    width: 100%;
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
+    padding-left: 2rem;
+    border-radius: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    outline: none;
+    background-color: rgb(247,248,250); 
+}
+span{
+    position: absolute;
+    right: -25px;
+    transform: translateY(-120%);
+}
